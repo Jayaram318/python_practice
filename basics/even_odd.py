@@ -1,0 +1,11 @@
+start = 1
+
+end=50
+
+while  start <= end:
+   if start % 2 == 0:
+      print(start)
+   else:
+      print("odd")
+   start += 1
+  
